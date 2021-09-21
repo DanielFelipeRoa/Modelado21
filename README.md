@@ -1,1 +1,1 @@
-# Modelado21
+# UML para el juego de 21.
