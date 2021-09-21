@@ -1,4 +1,4 @@
-# UML para 21.
+# UML del juego 21.
 
 ## Estudiantes:
 
