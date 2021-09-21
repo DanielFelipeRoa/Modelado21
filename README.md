@@ -31,3 +31,5 @@ El diagrama de secuenciatiene como objetivo representar el intercambio de mensaj
 
 Normalmente es utilizado para definir como se realiza un caso de uso por lo que es comúnmente utilizado junto al diagrama de casos de uso. También se suele construir para comprender mejor el diagrama de clases, ya que el diagrama de secuencia muestra como objetos de esas clases interactúan haciendo intercambio de mensajes.
 ## Diagrama de casos de uso
+En el lenguaje de modelado unificado (UML), los casos de uso son modelos que describen como diferentes tipos de usuarios interactúan con un sistema informático para resolver un determinado problema o necesidades. Por lo tanto, describen los objetivos de los usuarios, las interacciones entre los usuarios y el sistema, así como el comportamiento que debe ejecutar el sistema para satisfacerlos.
+Los casos de uso son una de las técnicas para especificar los requerimientos funcionales del software. Sólo describen lo que el software debe hacer y para quien. No entran en detalles sobre como el software será implementado, cuales componentes tendrá o la interacción entre ellos.
