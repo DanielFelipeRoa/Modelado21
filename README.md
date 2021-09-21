@@ -2,8 +2,8 @@
 
 ## Estudiantes:
 
-1) Daniel Felipe Camargo Roa - 20172020078
-2) Cristian Daniel Meneses Ramirez - 20182020071
+### 1) Daniel Felipe Camargo Roa - 20172020078
+### 2) Cristian Daniel Meneses Ramirez - 20182020071
 
 ## Diagrama de despliegue
 Un diagrama de despliegue es un tipo de diagrama UML que muestra la arquitectura de ejecución de un sistema, incluyendo nodos como entornos de ejecución de hardware o software, y el middleware que los conecta.
