@@ -27,5 +27,7 @@ Es importante destacar que, por esta misma razón, este diagrama no incluye la f
 El diagrama de clases es un diagrama puramente orientado al modelo de programación orientado a objetos, ya que define las clases que se utilizarán cuando se pase a la fase de construcción y la manera en que se relacionan las mismas. Se podría equiparar, salvando las distancias, al famoso diagrama de modelo Entidad-Relación (E/R), no recogido en UML, tiene una utilidad similar: la representación de datos y su interacción. Ambos diagramas muestran el modelo lógico de los datos de un sistema.
 
 ## Diagrama de secuencia o actividades
+El diagrama de secuenciatiene como objetivo representar el intercambio de mensajes entre los distintos objetos del sistema para cumplir con una funcionalidad. Define, por tanto, el comportamiento dinámico del sistema de información.
 
+Normalmente es utilizado para definir como se realiza un caso de uso por lo que es comúnmente utilizado junto al diagrama de casos de uso. También se suele construir para comprender mejor el diagrama de clases, ya que el diagrama de secuencia muestra como objetos de esas clases interactúan haciendo intercambio de mensajes.
 ## Diagrama de casos de uso
