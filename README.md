@@ -1,1 +1,1 @@
-# UML para el juego de 21.
+# UML para 21.
