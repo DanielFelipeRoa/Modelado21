@@ -12,4 +12,6 @@ Los diagramas de despliegue se utilizan normalmente para visualizar el hardware 
 
 Estos, ayudan a modelar la topología de hardware de un sistema en comparación con otros tipos de diagramas UML, que en su mayoría esbozan los componentes lógicos de un sistema.
 
-<div align=”center”> ![Despliegue](https://user-images.githubusercontent.com/36264295/134115455-8f01b304-3b33-476a-8f3f-c3257c01fe98.png) </div>
+<div align=”center”> 
+![Despliegue](https://user-images.githubusercontent.com/36264295/134115455-8f01b304-3b33-476a-8f3f-c3257c01fe98.png) 
+</div>
