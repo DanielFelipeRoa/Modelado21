@@ -28,6 +28,15 @@ En sí el diagrama es muy sencillo, dependiendo su complicación del detalle con
  </p>
  
 ## Diagrama de clases
+El diagrama de clases se utiliza para representar los elementos que componen un sistema de información desde un punto de vista estático.
+
+Es importante destacar que, por esta misma razón, este diagrama no incluye la forma en la que se comportan a lo largo de la ejecución los distintos elementos, esa función puede ser representada a través de un diagrama de comportamiento, como por ejemplo un diagrama de secuencia o un diagrama de casos de uso.
+
+El diagrama de clases es un diagrama puramente orientado al modelo de programación orientado a objetos, ya que define las clases que se utilizarán cuando se pase a la fase de construcción y la manera en que se relacionan las mismas. Se podría equiparar, salvando las distancias, al famoso diagrama de modelo Entidad-Relación (E/R), no recogido en UML, tiene una utilidad similar: la representación de datos y su interacción. Ambos diagramas muestran el modelo lógico de los datos de un sistema.
+
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/36264295/134116250-39c761a9-81b4-4a81-894b-889ad1cc2c96.png>
+ </p>
 
 ## Diagrama de secuencia o actividades
 
